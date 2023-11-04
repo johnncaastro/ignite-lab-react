@@ -37,7 +37,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 Clone o repositório com o seguinte comando no seu terminal (Você precisa ter o [Node.js](https://nodejs.org/en/) e o [Git](https://git-scm.com/) instalados no seu computador).
 
-```git clone https://github.com/johnncaastro/ignite-lab-reactjs.git```
+```git clone https://github.com/johnncaastro/ignite-lab-react.git```
 
 Instale as dependências para o funcionamento do projeto
 
