@@ -1,9 +1,9 @@
 'use client'
 
 import { useState } from 'react'
-import { Header } from '../../../../Components/Header/page'
-import { Sidebar } from '../../../../Components/Sidebar/page'
-import { Video } from '../../../../Components/Video/page'
+import { Header } from '../../../../components/Header/page'
+import { Sidebar } from '../../../../components/Sidebar/page'
+import { Video } from '../../../../components/Video/page'
 
 interface RouteParams {
   params: {
