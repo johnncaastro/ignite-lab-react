@@ -2,7 +2,7 @@
   ignite lab | ReactJS
 </h1>
 
-![ignite-lab](https://github.com/johnncaastro/ignite-lab/blob/main/.github/homepage-ignite-lab-reactjs.png)
+![ignite-lab-reactjs](https://github.com/johnncaastro/ignite-lab-reactjs/blob/main/.github/homepage-ignite-lab-reactjs.png)
 
 ## :page_with_curl: Sobre
 
