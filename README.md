@@ -24,7 +24,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [apollo](https://www.apollographql.com/docs/react/)
 - [vimejs](https://vimejs.com/)
 - [phosphor-react](https://phosphoricons.com/)
-- [classnames](https://www.npmjs.com/package/classnames)
 - [date-fns](https://date-fns.org/)
 
 ## ⭐ Funcionalidades acrescentadas
