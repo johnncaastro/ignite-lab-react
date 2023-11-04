@@ -10,7 +10,7 @@ O Ignite Lab | ReactJS é um projeto que tem como objetivo construir uma platafo
 
 ## :computer: Projeto
 
-Acesse o projeto clicando [aqui](https://ignite-lab-six-omega.vercel.app/). :+1:
+Acesse o projeto clicando [aqui](https://ignite-lab-react-gules.vercel.app/). :+1:
 
 ## 🚀 Tecnologias
 
@@ -51,6 +51,6 @@ Em seguida insira o comando abaixo para iniciar a aplicação:
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/johnncaastro/ignite-lab-reactjs/blob/main/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/johnncaastro/ignite-lab-react/blob/main/LICENSE) para mais detalhes.
 
 ---
