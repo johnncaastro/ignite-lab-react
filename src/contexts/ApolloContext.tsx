@@ -1,7 +1,7 @@
 'use client'
 
-import { client } from '@/lib/apollo'
 import { ApolloProvider } from '@apollo/client'
+import { client } from 'lib/apollo'
 import { ReactNode } from 'react'
 
 interface ApolloProviderProps {
