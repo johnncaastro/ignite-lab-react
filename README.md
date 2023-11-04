@@ -1,5 +1,5 @@
 <h1 align="center">
-  ignite lab | ReactJS
+  Ignite Lab | ReactJS
 </h1>
 
 ![ignite-lab-reactjs](https://github.com/johnncaastro/ignite-lab-reactjs/blob/main/.github/homepage-ignite-lab-reactjs.png)
