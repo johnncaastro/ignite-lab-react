@@ -6,7 +6,7 @@
 
 ## :page_with_curl: Sobre
 
-O Ignite Lab | ReactJS é um projeto que tem como objetivo construir uma plataforma de evento online, que servirá conteúdos educativos em formato de vídeo
+O Ignite Lab | ReactJS foi criado durante a 1ª edição do Ignite Lab promovido pela Rocketseat e tem como objetivo fornecer uma plataforma de evento online, servindo conteúdos educativos em formato de vídeo
 
 ## :computer: Projeto
 
