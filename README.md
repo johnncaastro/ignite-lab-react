@@ -53,3 +53,7 @@ Em seguida insira o comando abaixo para iniciar a aplicação:
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/johnncaastro/ignite-lab-react/blob/main/LICENSE) para mais detalhes.
 
 ---
+
+Feito com ♥ por John Castro :wave: [Entre em contato!](https://www.linkedin.com/in/johnncaastro/)
+
+<p>johncastro.dev</p>
